@@ -1,0 +1,13 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# PyCharm project settings
+.idea/
+
+# Local test files
+Test_Files/
+
+# Virtual environments
+.venv/
+venv/
